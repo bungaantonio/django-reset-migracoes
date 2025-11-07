@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-DJANGO ENVIRONMRNT RESET TOOL.
+DJANGO ENVIRONMENT RESET TOOL.
 
 This script performs a clean rebuild of a Django project environment.
 It can:
